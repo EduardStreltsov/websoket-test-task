@@ -1,0 +1,146 @@
+[
+  {
+    "id": "206361",
+    "name": "Turkish Super Lig",
+    "icon": "https://i.ibb.co/XX7J7y5/68.png",
+    "events": [
+      {
+        "name": "Galatasaray vs. Fenerbahçe",
+        "id": "4230576",
+        "startTime": 1600260600,
+        "markets": [
+          {
+            "id": "1922679",
+            "outcomes": [
+              {
+                "id": "5202283",
+                "price": "+300",
+                "name": "Fenerbahçe"
+              },
+              {
+                "id": "5202284",
+                "price": "+300",
+                "name": "Galatasaray"
+              },
+              {
+                "id": "5202285",
+                "price": "+100",
+                "name": "Draw"
+              }
+            ],
+            "name": "Match Result"
+          }
+        ]
+      },
+      {
+        "name": "Beşiktaş vs. Trabzonspor",
+        "id": "4230577",
+        "startTime": 1600519800,
+        "markets": [
+          {
+            "id": "1922680",
+            "outcomes": [
+              {
+                "id": "5202286",
+                "price": "+300",
+                "name": "Trabzonspor"
+              },
+              {
+                "id": "5202287",
+                "price": "+100",
+                "name": "Beşiktaş"
+              },
+              {
+                "id": "5202288",
+                "price": "+200",
+                "name": "Draw"
+              }
+            ],
+            "name": "Match Result"
+          }
+        ]
+      },
+      {
+        "name": "Gençlerbirliği vs. Antalyaspor",
+        "id": "4230578",
+        "startTime": 1601383800,
+        "markets": [
+          {
+            "id": "1922681",
+            "outcomes": [
+              {
+                "id": "5202289",
+                "price": "+225",
+                "name": "Antalyaspor"
+              },
+              {
+                "id": "5202290",
+                "price": "-125",
+                "name": "Gençlerbirliği"
+              },
+              {
+                "id": "5202291",
+                "price": "-50",
+                "name": "Draw"
+              }
+            ],
+            "name": "Match Result"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "206362",
+    "name": "Euroleague",
+    "icon": "https://i.ibb.co/JQP4DnM/community-Icon-bglpqc3gcwu41.png",
+    "events": [
+      {
+        "name": "Maccabi Tel Aviv vs. CSKA Moscow",
+        "id": "4230579",
+        "startTime": 1601556600,
+        "markets": [
+          {
+            "id": "1922682",
+            "outcomes": [
+              {
+                "id": "5202292",
+                "price": "+210",
+                "name": "CSKA Moscow"
+              },
+              {
+                "id": "5202293",
+                "price": "-115",
+                "name": "Maccabi Tel Aviv"
+              }
+            ],
+            "name": "Match Result"
+          }
+        ]
+      },
+      {
+        "name": "Panathinakos vs. Anadolu Efes",
+        "id": "4230580",
+        "startTime": 1601643000,
+        "markets": [
+          {
+            "id": "1922683",
+            "outcomes": [
+              {
+                "id": "5202294",
+                "price": "+320",
+                "name": "Anadolu Efes"
+              },
+              {
+                "id": "5202295",
+                "price": "-175",
+                "name": "Panathinakos"
+              }
+            ],
+            "name": "Match Result"
+          }
+        ]
+      }
+    ]
+  }
+]
